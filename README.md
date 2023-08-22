@@ -1,0 +1,2 @@
+# ConfigRepo
+spring boot configuration
